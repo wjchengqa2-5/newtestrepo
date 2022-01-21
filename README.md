@@ -1,4 +1,4 @@
-# Learn Next.js
+# Learn Next.js QA
 
 This repository contains starter templates for [Learn Next.js](https://nextjs.org/learn) courses:
 
